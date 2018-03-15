@@ -13,7 +13,7 @@ struct card {
 void main()
 {
 	int i, j, k = 0, arr[52];
-	int n, m, o, check; //중복체크
+	int n, m, o, check; //중복 체크
 	srand(time(0));
 	for (n = 0; n < 52; n++) 
 	{
